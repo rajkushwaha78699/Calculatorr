@@ -1,12 +1,31 @@
-# React + Vite
+## 🚀 Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](https://calculatorr-1nav.vercel.app/)
 
-Currently, two official plugins are available:
+# 🧮 Calculator App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple, clean, and responsive calculator built using HTML, CSS, and JavaScript. Supports basic arithmetic operations with a user-friendly interface.
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- HTML
+- CSS
+- JavaScript
+- Vercel (Deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Basic arithmetic operations
+- Responsive layout
+- Clear & Delete functionality
+- Keyboard input support (optional)
+
+## 📷 Screenshot
+
+![screenshot](./screenshot.png)
+
+## 📬 Contact
+
+For feedback or improvements:
+
+- Email: yourname@example.com
+- GitHub: [yourusername](https://github.com/yourusername)
