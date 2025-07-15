@@ -1,5 +1,7 @@
 ## 🚀 Live Demo
 
+Password ; 1234
+
 [Live Demo](https://calculatorr-1nav.vercel.app/)
 
 # 🧮 Calculator App
